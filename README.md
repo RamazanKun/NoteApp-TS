@@ -3,11 +3,9 @@
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler</h2>
-<h4>React-Html-CSS-Typescript</h4>
+<h4>React(Javascript)-Html-CSS-Typescript</h4>
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
-
-![](note.mp4)
 
 https://github.com/RamazanKun/NoteApp-TS/assets/129733537/cc12809d-b70c-4b5a-aa18-4ffb3b33db14
 
